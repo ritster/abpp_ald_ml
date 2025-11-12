@@ -1,0 +1,12 @@
+name: chemoML
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - tqdm
+  - requests
+  - biopython
+  - ipykernel
+prefix: /Users/ritwiksrinivas/miniconda3/envs/chemoML

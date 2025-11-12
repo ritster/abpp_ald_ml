@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "abpp_analysis"
+version = "0.1.0"
+description = "Data analysis and ML tools for chemoproteomics reactivity datasets"
+authors = [
+  { name = "Your Name" }
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
