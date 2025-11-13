@@ -9,4 +9,5 @@ dependencies:
   - requests
   - biopython
   - ipykernel
+  - openpyxl
 prefix: /Users/ritwiksrinivas/miniconda3/envs/chemoML

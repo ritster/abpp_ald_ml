@@ -16,6 +16,7 @@ dependencies:
   - comm=0.2.1=py312hca03da5_0
   - debugpy=1.8.16=py312h50f4ffc_1
   - decorator=5.2.1=py312hca03da5_0
+  - et_xmlfile=2.0.0=py312hca03da5_0
   - executing=2.2.1=py312hca03da5_0
   - expat=2.7.3=h982b769_0
   - idna=3.11=py312hca03da5_0
@@ -39,6 +40,7 @@ dependencies:
   - numexpr=2.14.1=py312h5fbe615_0
   - numpy=2.3.4=py312h4bb6f22_1
   - numpy-base=2.3.4=py312h23175f9_1
+  - openpyxl=3.1.5=py312h80987f9_0
   - openssl=3.0.18=h9b4081a_0
   - packaging=25.0=py312hca03da5_1
   - pandas=2.3.3=py312h3f644e9_1
